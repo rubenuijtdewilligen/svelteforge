@@ -1,0 +1,24 @@
+{
+  "name": "svelteforge",
+  "version": "0.1.0",
+  "description": "CLI to create SvelteKit projects",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenuijtdewilligen/svelteforge.git"
+  },
+  "author": "Ruben Uijtdewilligen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rubenuijtdewilligen/svelteforge/issues"
+  },
+  "homepage": "https://github.com/rubenuijtdewilligen/svelteforge#readme",
+  "dependencies": {
+    "create-svelte": "^5.0.5",
+    "inquirer": "^9.2.10"
+  }
+}
